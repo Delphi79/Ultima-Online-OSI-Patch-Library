@@ -1,0 +1,2 @@
+*.rtp filter=lfs diff=lfs merge=lfs -text
+*.pat filter=lfs diff=lfs merge=lfs -text
